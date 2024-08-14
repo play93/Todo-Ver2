@@ -12,6 +12,7 @@
 - new Date().toDateString() => 날짜를 표시함. new Date()로 새로운 Date객체를 만든 후, toDateString()메서드를 이용해 Date객체를 문자열로 읽기 편하게 렌더링
 
 <br>
+
 ## 2. 기능구현 준비
 
 - 투두 아이템들의 데이터를 State로 만들어 보관
